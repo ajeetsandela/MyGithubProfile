@@ -1,12 +1,27 @@
-# Hi there, I'm Ajeet Kumar Sandela 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Generative+AI+Engineer+⚙️;Building+Agentic+AI+Systems+🤖;LLM+%7C+RAG+%7C+LangChain+%7C+AWS)](https://git.io/typing-svg)
 
 
-🎯 **Generative AI & Machine Learning Engineer**  
-🔹 Passionate about building agentic AI systems, LLM pipelines, and Retrieval-Augmented Generation (RAG) frameworks that enable reasoning, autonomy, and scale.  
-🔹 Currently designing intelligent multi-agent workflows @ Elite Tech Info Inc.  
-[![AWS Certified](https://img.shields.io/badge/AWS%20ML%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Beta Gamma Sigma](https://img.shields.io/badge/Beta%20Gamma%20Sigma-Honor%20Society-blue?logo=academia&logoColor=white)](https://betagammasigma.org/)
+<!-- ======================= HEADER - CLEAN STACKED LAYOUT ======================= -->
+
+<h1>Hi there, I'm Ajeet Kumar Sandela 👋</h1>
+
+<p align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Generative+AI+Engineer+⚙️;Building+Agentic+AI+Systems+🤖;LLM+%7C+RAG+%7C+LangChain+%7C+AWS)](https://git.io/typing-svg)
+
+</p>
+
+<p align="right">
+  
+ ![AWS Certified](https://github.com/ajeetsandela/MyGithubProfile/blob/main/assets/aws_certification_badge.png)
+![Beta Gamma Sigma](https://github.com/ajeetsandela/MyGithubProfile/blob/main/assets/BGS_badge.jpg)
+</p>
+
+---
+
+### 💡 **Generative AI & Machine Learning Engineer**
+
+- 🧠 Passionate about building agentic AI systems, LLM pipelines, and Retrieval-Augmented Generation (RAG) frameworks that enable reasoning, autonomy, and scale.  
+- 🧩 Currently designing intelligent multi-agent workflows @ **Elite Tech Info Inc.**
 
 ...
 ---
